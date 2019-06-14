@@ -1,5 +1,5 @@
 My Project Euler Solutions Repository
-=====================================
+========================
 -   This repository was created to:
 
 -   Present the resolution used by me in the problems available on `Project Euler <https://projecteuler.net/>`_.
